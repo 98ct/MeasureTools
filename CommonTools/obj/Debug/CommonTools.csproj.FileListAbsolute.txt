@@ -1,0 +1,10 @@
+E:\Work\DJI\MeasureTools\CommonTools\bin\Debug\CommonTools.dll
+E:\Work\DJI\MeasureTools\CommonTools\bin\Debug\CommonTools.pdb
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.Cache
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.dll
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.pdb
+E:\Work\DJI\MeasureTools\CommonTools\obj\Debug\CommonTools.csprojResolveAssemblyReference.cache

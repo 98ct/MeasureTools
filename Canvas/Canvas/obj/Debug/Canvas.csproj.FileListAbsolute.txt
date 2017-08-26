@@ -1,0 +1,17 @@
+E:\Work\DJI\MeasureTools\Canvas\Canvas\bin\Debug\Canvas.exe.config
+E:\Work\DJI\MeasureTools\Canvas\Canvas\bin\Debug\Canvas.exe
+E:\Work\DJI\MeasureTools\Canvas\Canvas\bin\Debug\Canvas.pdb
+E:\Work\DJI\MeasureTools\Canvas\Canvas\bin\Debug\CommonTools.dll
+E:\Work\DJI\MeasureTools\Canvas\Canvas\bin\Debug\CommonTools.pdb
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.csprojResolveAssemblyReference.cache
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.CanvasCtrl.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.DocumentForm.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.MainWin.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.Options.GridPage.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.Options.LayersPage.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.Options.OptionsDlg.resources
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.csproj.GenerateResource.Cache
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.exe
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.pdb
+E:\Work\DJI\MeasureTools\Canvas\Canvas\obj\Debug\Canvas.About.resources

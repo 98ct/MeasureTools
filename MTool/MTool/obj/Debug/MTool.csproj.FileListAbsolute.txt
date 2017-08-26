@@ -1,0 +1,9 @@
+E:\Work\DJI\MeasureTools\MTool\MTool\bin\Debug\MTool.exe.config
+E:\Work\DJI\MeasureTools\MTool\MTool\bin\Debug\MTool.exe
+E:\Work\DJI\MeasureTools\MTool\MTool\bin\Debug\MTool.pdb
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.csprojResolveAssemblyReference.cache
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.Start.resources
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.Properties.Resources.resources
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.csproj.GenerateResource.Cache
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.exe
+E:\Work\DJI\MeasureTools\MTool\MTool\obj\Debug\MTool.pdb
